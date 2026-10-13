@@ -22,3 +22,6 @@
 <p>DANDY'S WORLD</p>
 
 <p>JJBA</p>
+<div align="center">
+  <img src="https://i.postimg.cc/mr32pNc7/Bez-nazvania674-20261013124057.png" width="300" alt="Image"/>
+</div>
