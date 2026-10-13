@@ -8,7 +8,7 @@
 <h1>ABOUT ME :</h1>
 <p>My name is Zero, I'm 15 years old and a college student.</p>
 
-<p>I don't have any friends IRL, so I'd like to meet someone online.</p>
+<p>I don't have many friends IRL, so I'd like to meet someone online.</p>
 
 <p>I also have social anxiety, so please be patient with me. I get very nervous when talking.</p>
 
