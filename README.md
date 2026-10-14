@@ -7,6 +7,9 @@
 </div>
 
 <h1>ABOUT ME :</h1> 
+<p align="center">
+  <b>SX4SP5SP9 · ISFP · RUS</b>
+</p>
 </h1>
 <p>My name is Zero, I'm 15 years old and a college student.</p>
 
