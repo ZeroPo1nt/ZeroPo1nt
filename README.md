@@ -41,42 +41,35 @@
 <p align="center">
   <img src="https://i.postimg.cc/sgW09t7Q/Untitled697-20261014225759.png" width="300">
 </p>
-<table>
+
+<table align="center">
   <tr>
-    <td valign="middle">
-      <h2>𝙈𝘼𝙄𝙉 𝙁𝘼𝙉𝘿𝙊𝙈𝙎 :</h2>
+    <td align="center" valign="middle">
+      <h2><span style="color:#E0934D;">𝙈𝘼𝙄𝙉 𝙁𝘼𝙉𝘿𝙊𝙈𝙎</span></h2>
     </td>
-    <td align="right">
+    <td align="center" valign="middle">
       <img src="https://i.postimg.cc/brXRJvFq/Untitled699-20261014230512.png" width="150">
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td>
-      <b>Among Us</b><br>
-      LOGIC, SHOW, REMNANT,<br>
-      RODAMRIX, VS IMPOSTOR V4
-    </td>
+    <td align="center"><span style="color:#E0934D;">RODAMRIX</span></td>
+    <td align="center"><span style="color:#E0934D;">AMONG US SHOW</span></td>
   </tr>
   <tr>
-    <td>PHIGHTING!</td>
+    <td align="center"><span style="color:#E0934D;">AMONG US : REMNANT</span></td>
+    <td align="center"><span style="color:#E0934D;">VS IMPOSTOR V4</span></td>
   </tr>
   <tr>
-    <td>DANDY'S WORLD</td>
+    <td colspan="2" align="center"><span style="color:#E0934D;">JJBA</span></td>
   </tr>
   <tr>
-    <td>JJBA</td>
+    <td colspan="2" align="center"><span style="color:#E0934D;">PHIGHTING!</span></td>
   </tr>
 </table>
-
-
-
 
 <p align="center">
-  <img src="https://i.postimg.cc/cHVrGgkr/Untitled701-20261014232512.png" width="200">
+  <img src="https://i.postimg.cc/cHVrGgkr/Untitled701-20261014232512.png" width="150">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fita&size=25&duration=3000&pause=1000&color=CF254A&center=true&vCenter=true&width=300&lines=Your+verdict+is...;Guilty!" alt="Your verdict is... Guilty!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fita&size=20&duration=3000&pause=1000&color=CF254A&center=true&vCenter=true&width=300&lines=Your+verdict+is...;Guilty!" alt="Your verdict is... Guilty!">
 </p>
 
